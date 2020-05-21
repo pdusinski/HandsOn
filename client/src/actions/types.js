@@ -1,0 +1,57 @@
+export const SET_ALERT = "SET_ALERT";
+export const REMOVE_ALERT = "REMOVE_ALERT";
+
+export const ADD_COMPANY = "ADD_COMPANY";
+export const ADD_COMPANY_FAIL = "ADD_COMPANY_FAIL";
+
+export const ADD_TEAM = "ADD_TEAM";
+export const ADD_TEAM_FAIL = "ADD_TEAM_FAIL";
+
+export const ADD_PROJECT = "ADD_PROJECT";
+export const ADD_PROJECT_FAIL = "ADD_PROJECT_FAIL";
+
+export const ADD_TASK = "ADD_TASK";
+export const ADD_TASK_FAIL = "ADD_TASK_FAIL";
+
+export const ADD_WORKER = "ADD_WORKER";
+export const ADD_WORKER_FAIL = "ADD_WORKER_FAIL";
+
+export const DELETE_WORKER = "DELETE_WORKER";
+export const DELETE_WORKER_FAIL = "DELETE_WORKER_FAIL";
+
+export const REMOVE_TASK = "REMOVE_TASK";
+export const REMOVE_TASK_FAIL = "REMOVE_TASK_FAIL";
+
+export const GET_PROJECT_ID = "GET_PROJECT_ID";
+export const GET_PROJECT_ID_FAIL = "GET_PROJECT_ID_FAIL";
+
+export const GET_COMPANY_BY_ID = "GET_COMPANY_BY_ID";
+export const GET_COMPANY_FAIL = "GET_COMPANY_FAIL";
+
+export const GET_ALL_PROJECTS_OF_TEAM = "GET_ALL_PROJECTS_OF_TEAM";
+export const GET_ALL_PROJECTS_OF_TEAM_FAIL = "GET_ALL_PROJECTS_OF_TEAM_FAIL";
+export const ADD_NOTE = "ADD_NOTE";
+export const ADD_NOTE_FAIL = "ADD_NOTE_FAIL";
+
+export const GET_NOTES = "GET_NOTES";
+export const GET_NOTES_FAIL = "GET_NOTES_FAIL";
+
+export const GET_INFO_TEAM = "GET_INFO_TEAM";
+export const GET_INFO_TEAM_FAIL = "GET_INFO_TEAM_FAIL";
+export const CONNECT_WITH = "CONNECT_WITH";
+export const CONNECT_WITH_FAIL = "CONNECT_WITH_FAIL";
+export const COMPLETE_TASK = "COMPLETE_TASK";
+export const COMPLETE_TASK_FAIL = "COMPLETE_TASK_FAIL";
+export const ADD_MEMBER = "ADD_MEMBER";
+export const REMOVE_MEMBER = "REMOVE_MEMBER";
+export const REMOVE_MEMBER_FAIL = "REMOVE_MEMBER_FAIL";
+export const ADD_MEMBER_FAIL = "ADD_MEMBER_FAIL";
+export const REGISTER_SUCCESS = "REGISTER_SUCCESS";
+export const REGISTER_FAIL = "REGISTER_FAIL";
+export const USER_LOADED = "USER_LOADED";
+export const AUTH_ERROR = "AUTH_ERROR";
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGIN_FAIL = "LOGIN_FAIL";
+export const LOGOUT = "LOGOUT";
+
+export const ACCOUNT_DELETED = "ACCOUNT_DELETED";
